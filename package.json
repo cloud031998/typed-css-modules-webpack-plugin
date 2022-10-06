@@ -42,7 +42,7 @@
     "webpack": "^4.43.0"
   },
   "dependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^5.1.0",
     "css-modules-loader-core": "^1.1.0",
     "glob": "^7.1.6",
     "typed-css-modules": "^0.6.4"
