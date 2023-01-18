@@ -34,7 +34,7 @@
     "@types/webpack": "^4.41.21",
     "css-loader": "^5.0.1",
     "jest": "^26.1.0",
-    "rimraf": "^3.0.2",
+    "rimraf": "^4.1.1",
     "standard-version": "^9.0.0",
     "ts-jest": "^26.1.2",
     "ts-loader": "^8.0.0",
